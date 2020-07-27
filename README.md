@@ -1,2 +1,2 @@
 # codewars
-Codewars.com kata
+Codewars.com solved kata
